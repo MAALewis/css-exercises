@@ -1,0 +1,18 @@
+.odd-rows {
+    background-color: #ea8696;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.tall-rows {
+    font-size: 24px;
+}
+
+#blue-boy {
+    color: #0f0fcd;
+    font-size: 36px;
+}
+
+#green-girl {
+    background-color: #37d237;
+    font-weight: bold;
+}
